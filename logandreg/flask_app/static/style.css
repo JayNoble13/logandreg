@@ -1,0 +1,22 @@
+*{
+    margin: 0 auto;
+}
+
+body{
+    background-color: rgb(19, 4, 223);
+    color: white;
+    text-align: center;
+}
+
+.input-group{
+    margin: 10px 25%;
+    width: 50%;
+}
+
+.landing{
+    text-align: center;
+}
+
+.logbutton{
+    color: red;
+}
